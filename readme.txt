@@ -1,6 +1,6 @@
 >>>>> House Rules for GitHub - WordPress <<<<<
 
-What we should and shudn't push to GitHub:
+What we should and shoudn't push to GitHub:
 
 Push 
   << Theme code (like style.css, functions.php)
